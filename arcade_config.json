@@ -1,0 +1,18 @@
+{
+    "mot_de_passe": "1234",
+    "couleur_menu": "#263238",
+    "ordre_jeux": [
+        "bingo",
+        "pfc",
+        "morpion",
+        "puissance4",
+        "bataille",
+        "quiz",
+        "pendu",
+        "2048",
+        "echecs",
+        "snake",
+        "tetris",
+        "plateforme"
+    ]
+}

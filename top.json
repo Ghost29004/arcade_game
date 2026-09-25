@@ -1,0 +1,70 @@
+{
+    "1-3": [
+        {
+            "nom": "maksis",
+            "essais": 2,
+            "temps": 2.7690906960001485
+        }
+    ],
+    "Quiz - Tables de multiplication": [
+        {
+            "joueur": "Joueur",
+            "score": 8
+        }
+    ],
+    "Quiz - Culture générale": [
+        {
+            "joueur": "Joueur",
+            "score": 7
+        }
+    ],
+    "Quiz - Sciences": [
+        {
+            "joueur": "Joueur",
+            "score": 7
+        }
+    ],
+    "Quiz - Géographie": [
+        {
+            "joueur": "Joueur",
+            "score": 9
+        }
+    ],
+    "Morpion": [
+        {
+            "joueur": "Joueur 1",
+            "score": 1
+        }
+    ],
+    "2048": [
+        {
+            "joueur": "maksis",
+            "score": 2296
+        }
+    ],
+    "Tetris Facile": [
+        {
+            "joueur": "maksis",
+            "score": 1900
+        }
+    ],
+    "Aventure plateforme": [
+        {
+            "joueur": "Anonyme",
+            "score": 1,
+            "temps": 4
+        },
+        {
+            "joueur": "Anonyme",
+            "score": 14
+        },
+        {
+            "joueur": "maksis",
+            "score": 8
+        },
+        {
+            "joueur": "Anonyme",
+            "score": 3
+        }
+    ]
+}
